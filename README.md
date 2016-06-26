@@ -4,9 +4,9 @@
 
 ## References
 
-- [Helmetrex - React Structor](https://helmetrex.com/videos)
-- [Deco - React Native IDE](https://www.decosoftware.com/)
+- 网页端：[Helmetrex - React Structor](https://helmetrex.com/videos)
+- 移动端：[Deco - React Native IDE](https://www.decosoftware.com/)
 
 ## Books
 
-《组件化拖拽式网页设计与编码》 —— 吕立青
+《组件化拖拽式界面设计与编码》 —— 吕立青
