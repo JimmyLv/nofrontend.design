@@ -14,7 +14,7 @@ Web:
 - [ARCSOFT™ – Grid Website Builder & Design](https://www.arcsoft.io/)
 - [Adobe Experience Manager 6.2](https://docs.adobe.com/content/docs/en/aem/6-2.html)
 
-Mobile:
+Native:
 
 - [Deco - React Native IDE](https://www.decosoftware.com/)
 - [Snack via Expo - React Native](https://snack.expo.io/ByJQk_Lag)
