@@ -7,8 +7,8 @@
 Web:
 
 - [React Structor Market](https://helmetrex.com/)
-- [How To Make Your Own Website - Best Website Builder | Strikingly](https://www.strikingly.com/?locale=en)
-- [上线了sxl.cn | 简单易用・专业美观](https://www.sxl.cn/)
+- [Ant Motion Editor](https://motion.ant.design/edit#t%3Dnav_0_0%2Ccontent_0_0%2Ccontent_2_0%2Ccontent_3_0%2Ccontent_4_0%2Cfooter_0_0)
+- [上线了sxl.cn](https://www.sxl.cn/) & [Strikingly](https://www.strikingly.com/?locale=en)
 - [ipselon/structor: Structor - React UI Builder](https://github.com/ipselon/structor)
 - [Drag and Drop Responsive Website Builder | Website maker](https://www.simbla.com/)
 - [ARCSOFT™ – Grid Website Builder & Design](https://www.arcsoft.io/)
